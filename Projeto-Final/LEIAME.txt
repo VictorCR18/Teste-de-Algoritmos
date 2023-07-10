@@ -1,0 +1,26 @@
+
+*******************
+
+O arquivo main.cpp possui uma versao inicial do trabalho pronta para executar.
+Se voce quiser, pode usar esta versao como base para fazer o seu trabalho.
+
+--------------------
+
+A pasta "graficos" contem arquivos que, quando executados com o software gnuplot,
+geram os graficos para o relatorio.
+
+--------------------
+
+A pasta "dados" esta vazia, mas contera todos os dados para os vetores assim que o
+programa main.cpp for executado.
+
+--------------------
+
+A pasta "resultados" contem os arquivos com os resultados das execucoes. Esses arquivos
+sao usados pelo gnuplot para plotar os graficos.
+
+********************
+
+
+
+
